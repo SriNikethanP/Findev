@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- Background Circle -->
+  <circle cx="48" cy="48" r="48" fill="#2C3E50"/>
+
+  <!-- Inner Circle with Blue Shade -->
+  <circle cx="48" cy="48" r="40" fill="#34495E" stroke="#1ABC9C" stroke-width="2"/>
+
+  <!-- Git "Push" Arrow -->
+  <path d="M48 20L48 60" stroke="#2980B9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 20L42 30L54 30L48 20Z" fill="#2980B9"/>
+
+  <!-- Connecting Dots (representing Git branches) -->
+  <circle cx="48" cy="48" r="4" fill="#1ABC9C"/>
+  <circle cx="36" cy="60" r="4" fill="#1ABC9C"/>
+  <circle cx="60" cy="60" r="4" fill="#1ABC9C"/>
+</svg>
