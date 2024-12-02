@@ -6,7 +6,7 @@
 
 ## **Live Application**
 
-Check out the live application here: [Findev](https://findev-6d1o.onrender.com)
+Check out the live application here: [Findev](https://findev-q050.onrender.com)
 
 ---
 
